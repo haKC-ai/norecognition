@@ -1,4 +1,3 @@
-````markdown
 # nonRecognition - Adversarial Fuzzer
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
